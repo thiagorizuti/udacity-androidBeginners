@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Sci5</string>
+    <string name="title_1">1 - Question</string>
+    <string name="title_2">2 - Research</string>
+    <string name="title_3">3 - Hypothesis</string>
+    <string name="title_4">4 - Experiment</string>
+    <string name="title_5">5 - Conclusion</string>
+    <string name="content_1">The first step is to make observations. \n\n
+        Which phenomena can you observe in your field of interest? \n\n
+        Know how to ask a question about what you observe is as much important as making the
+        observation itself. \n\n
+        How, What, When, Who, Which, Why, or Where?\n\n
+        The only requirement for this step is your curiosity.\n\n
+        Ex: Which car body shape reduces air resistance most effectively?
+  </string>
+    <string name="content_2">Before you start doing things you should know what other people already
+        have done.\n\n
+        This step is important so you can expand your knowledge on the subject. \n\n
+        You can learn from the work of others and avoid repeating the same mistakes.\n\n
+        The web is your best ally here.\n\n
+        Google Scholar is a excellent place to begin with.
+    </string>
+    <string name="content_3">Now that you have made observations, asked yourself a question and
+        studied enough on the subject, it is time to put together what you know and formulate a
+        hypothesis. \n\n
+        To formulate a hypothesis you should use your intuition and deductive reasoning.
+        A hypothesis is  a \"if...then\" statement.\n\n
+        There are two requirements to be met: the hypothesis should be testable and falsifiable.\n\n
+        It needs to be possible to run a experiment that allow to test the validity of the statement
+        and to show that the ideia is not true, if that is the case.\n\n
+        Ex: If a car\'s body profile is related to the amount of air resistance it produces,
+        then a car designed like the body of a bird will be more aerodynamic and reduce air resistance
+        more than a car designed like a box.
+    </string>
+    <string name="content_4">A well designed experiment should test a specific hypothesis and must
+        be controlled.\n\n
+        The independent variable is the one that\'s controlled and manipulated by the experimenter,
+        while the dependent variable is not. \n\n
+        As the independent variable is manipulated, the dependent variable is measured for variation.\n\n
+        Ex: the independent variable is the shape of the car\'s body. The dependent variable could
+        be speed, gas mileage or a direct measure of the amount of air pressure exerted on the car.
+    </string>
+    <string name="content_5">As soon as your experiments are concluded, should have gathered an amount
+    of qualitative and quantitative data. What conclusions can you draw from it?\n\n
+    Now it is time to analyze this data in search for the evidence to support or reject your hypothesis. \n\n
+    Have you proved your hypothesis and answered your question ? Congratulations! Now you can show
+    your work and results to other scientists.  \n\n
+    Have you found that your hypothesis is not supported by evidence ? Do not worry! That is the way
+    that science works. Maybe you can rethink on your experiments or reformulate your hypothesis.
+    Science is a iterative process, you should repeat your steps until you have a desired result.
+    </string>
+
+
+
+</resources>
